@@ -30,7 +30,7 @@ Whether or not I get selected for Erasmus, I’m committed to learning deeply an
 
 ## 📌 About Me
 
-- 🎓 BCA Graduate (2025), Bangalore University  
+- 🎓 BCA Graduate (2025), REVA University  
 - 🔍 Exploring Data Science, Analytics, and Cybersecurity  
 - 💡 Inspired by my best friend who taught me to chase skills over marks  
 - 💻 Not a web developer by choice — aiming for data-driven impact  
